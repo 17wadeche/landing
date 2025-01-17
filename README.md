@@ -4,6 +4,7 @@ Thank you for acquiring our solution via Microsoft AppSource (or the Azure Marke
 
 ## 1. Install the Excel Add-in
 1. Download the manifest file here: https://github.com/17wadeche/landing/blob/main/manifest.xml
+2. Click **Download Raw File** in the top right.
 3. In Excel, go to **Insert** > **My Add-ins**.
 4. At the bottom, click **Manage My Add-ins** or **Upload My Add-in** (wording may vary).
 5. Browse to the downloaded manifest `.xml` file and select it.

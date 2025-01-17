@@ -1,0 +1,22 @@
+Title: Excel Dashboard Add-In – Product Overview
+
+Introduction:
+The Excel Dashboard Add-In helps professionals, analysts, and managers create, manage, and customize interactive dashboards directly within Excel. Leveraging the power of Microsoft 365 and Excel’s extensibility, this add-in enables seamless data integration, flexible widget configuration, and easy sharing.
+
+Key Features:
+
+Versatile Widgets: Add text, charts, Gantt charts, images, metrics (KPIs), lines, and reports to build a dynamic dashboard tailored to your needs.
+Data Integration: Connect directly to data ranges and worksheets within your Excel workbook to automatically update metrics and charts as the underlying data changes.
+Customization: Adjust fonts, colors, and layouts to maintain brand consistency or highlight important data points.
+Interactivity: Resize, move, and edit widgets through a drag-and-drop interface. Undo/redo actions ensure you can iterate quickly without losing progress.
+Gantt Chart Management: Insert a pre-built project management template and easily create a Gantt chart that updates as the underlying data changes.
+Snapshot & Export: Export dashboards as PDFs for offline distribution or take snapshots directly from Excel.
+Supported Environments:
+
+Runs on Excel (desktop and online) within Microsoft 365.
+Integrates with Microsoft Graph for advanced data scenarios, if needed.
+Use Cases:
+
+Financial dashboards for monthly performance reports.
+Project management views combining Gantt timelines with key metrics.
+Sales analytics with dynamic charts and KPIs.

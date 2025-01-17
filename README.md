@@ -17,7 +17,7 @@ Thank you for acquiring our solution via Microsoft AppSource (or the Azure Marke
 - Explore the features, such as charts, gantts, tables, textboxes, and metrics.
 
 ## 4. Need Help?
-- **Documentation**: https://github.com/17wadeche/landing/blob/main/Product%20Overview, 
+- **Documentation**: https://github.com/17wadeche/landing/blob/main/Product%20Overview, https://github.com/17wadeche/landing/blob/main/User%20Guide
 - **Support**: Email: wadec8@chitek.co.site
 
 ---

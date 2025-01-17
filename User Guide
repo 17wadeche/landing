@@ -1,0 +1,75 @@
+Title: Excel Dashboard Add-In – User Guide
+Creating Your First Dashboard:
+
+Upon first load, a default title widget is displayed.
+Click Add Widget and choose from charts, metrics, text boxes, Gantt charts, and more.
+Use the toolbar to drag and position widgets. Adjust their size by dragging from the corners.
+Connecting Data:
+
+For charts and metrics, select Edit Widget and specify the worksheet name and cell range that contains your data.
+After confirming, the add-in automatically pulls values and updates the visualization.
+Customizing Appearance:
+
+Click the edit icon on any widget to adjust colors, fonts, titles, and alignment.
+Use the title widget to give your dashboard a descriptive headline.
+Experiment with line widgets to visually separate sections.
+Project Management Template & Gantt Charts:
+
+Use Insert Project Management Template to create a specialized worksheet with tasks and dates.
+Generate a Gantt chart widget to visualize task timelines and dependencies.
+Saving and Sharing:
+
+Click Save to store changes locally. The dashboard layout and data associations are preserved.
+Export as PDF from the toolbar to generate a sharable snapshot.
+For advanced scenarios, use Presenter Mode to show your dashboard full-screen.
+Tips & Best Practices:
+
+Keep metrics concise and highlight critical KPIs.
+Use consistent colors and fonts for a professional look.
+Refresh charts regularly to ensure you’re viewing the latest data.
+Troubleshooting:
+
+If data doesn’t appear: Check that the correct worksheet name and cell range have been provided.
+If a widget’s size or position isn’t updating: Try toggling edit mode or refreshing the page.
+For technical issues, contact support at [Support Link].
+3. Support and Troubleshooting Guide (PDF)
+Title: Excel Dashboard Add-In – Support & Troubleshooting
+
+Common Issues:
+
+Widget Not Updating:
+
+Verify that the cell addresses and worksheet names for metrics or charts are correct.
+Use the Refresh All Charts button on the toolbar to re-pull data from Excel.
+Add-In Not Visible or Not Loading:
+
+Ensure that you are signed into Microsoft 365 and have the correct permissions.
+Check the Office Add-ins panel in Excel to confirm the add-in is enabled.
+Data Validation Errors in Gantt Sheets:
+
+The Gantt template uses data validation. If you encounter invalid entries, correct them based on the prompts or tooltips.
+Undo/Redo Not Working as Expected:
+
+Undo/redo functionality relies on an internal state history. If your dashboard is brand new or recently reloaded, try performing a new action first, then use undo/redo.
+Performance Issues:
+
+Large workbooks or complex dashboards may slow down updates.
+Try closing other Excel workbooks or reducing the number of widgets.
+Frequently Asked Questions (FAQ):
+
+Q: Can I use this add-in offline?
+A: The add-in requires an online environment for full functionality, especially for data refreshes.
+
+Q: How often do charts refresh automatically?
+A: Charts refresh on demand when you click the refresh button. They do not auto-refresh in real-time unless triggered by certain Excel worksheet changes.
+
+Q: Can I integrate external data sources?
+A: Data must be present in your Excel workbook. You can import external data into Excel using standard methods, then reference those ranges in the add-in.
+
+Support Contacts:
+
+Name: Cheyanne Bronk-Wade
+Email: cwade1755@gmail.com
+Phone: 7156421755
+Support Link: https://chitek.co.site/
+For additional resources, visit the product documentation or reach out.
